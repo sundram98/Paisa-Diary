@@ -1,0 +1,6 @@
+{
+  "appId": "com.sundramcorp.paisadiary",
+  "appName": "Paisa Diary",
+  "webDir": "www",
+  "android": { "allowMixedContent": false }
+}
